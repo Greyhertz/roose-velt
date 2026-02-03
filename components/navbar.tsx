@@ -36,7 +36,7 @@ export function Navbar(){
                       </div>
                 </div>
                  </div>
-                   </nav>
+             </nav>
         </div>
       
     )
